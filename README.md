@@ -13,10 +13,10 @@
 
 <h3 align="left">👩‍💻  Обо мне</h3>
 <p align="left">Я начинающий разработчик  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Улан-Удэ. <br>
-  <br>- 🏆 Имею степень Бакалавра:<a href="https://sibsutis.ru/" target="_blank"> Сибирский государственный университет телекоммуникаци и информатики</a> :office:.
-  <br>- 🏆 Получаю степень Магистра: <a href="https://esstu.ru/index.htm" target="_blank"> Восточно-Сибирский государственный университет технологий и управленияи</a> :office:.
-  <br>- 📚 Изучаю язык программирования Java на курсе [Job4j](https://job4j.ru/) :coffee:
-  <br>- ⚡ Являюсь преподавателем в <a href="https://biik.ru/" target="_blank"> Бурятском институте инфокоммуникаций и информатики</a> :office:.
+  <br>- 🏆  Имею степень Бакалавра:<a href="https://sibsutis.ru/" target="_blank"> Сибирский государственный университет телекоммуникаци и информатики</a> :office:.
+  <br>- 🏆  Получаю степень Магистра: <a href="https://esstu.ru/index.htm" target="_blank"> Восточно-Сибирский государственный университет технологий и управленияи</a> :office:.
+  <br>- 📚  Изучаю язык программирования Java на курсе <a href="https://job4j.ru/" target="_blank"> Job4j</a> :coffee:
+  <br>- 💼  Являюсь преподавателем в <a href="https://biik.ru/" target="_blank"> Бурятском институте инфокоммуникаций и информатики</a> :office:.
 </p>
 
 
@@ -28,7 +28,8 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a> 
-  
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 

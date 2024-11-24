@@ -22,7 +22,9 @@
 </p>
 - [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
 * Имею степень Бакалавра: [Сибирский государственный университет телекоммуникаци и информатики](https://sibsutis.ru/). :office:
-
+<a href="https://sibsutis.ru/" target="_blank">
+         [Сибирский государственный университет телекоммуникаци и информатики]
+  </a>
 ### :hammer_and_wrench: Languages and Tools :
 
 

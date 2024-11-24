@@ -1,5 +1,20 @@
 <h1 align="center">Hi 👋, I'm Burlakov Vladimir ✌️</h1>
-<h3 align="center">About me I am 21 year old programmer from Ufa 💻 I learn Java at Job4j ☕ I learn Computer science in USATU (Ufa's State Aviation Technical University). 🏢 My Java expirience is 3 years ⌚</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+* I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ulan-Ude.
+* I learn Java at [Job4j](https://job4j.ru/) :coffee:
+* I learn Computer science Bachelor's degree in [Siberian State University of Telecommunications and Computer Science](https://sibsutis.ru/). :office:
+* I learn Computer science Master's degree in [East Siberian State University of Technology and Management](https://esstu.ru/indexEng.htm). :office:
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNsNTVkbTM0NndhMW56MWRrOHR5cWp6YTI4a3o1dmkzaWF4cmNqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNsNTVkbTM0NndhMW56MWRrOHR5cWp6YTI4a3o1dmkzaWF4cmNqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 <!--
 **Burlakov03/Burlakov03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

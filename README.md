@@ -3,7 +3,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW14MGUwMDl3d2x1a21qczUyZTBkMmI1cTRpdW1wczk5c2QzZjFzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="600" height="300"/>
+</div>
 ---
 
 ### :woman_technologist: About Me :

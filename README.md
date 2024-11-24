@@ -3,9 +3,28 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+###
+
+<h1 align="center">Привет👋 Меня зовут Владимир!</h1>
+
+###
+
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW14MGUwMDl3d2x1a21qczUyZTBkMmI1cTRpdW1wczk5c2QzZjFzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="600" height="300"/>
+  <a href="https://www.youtube.com/@tehno.maniak" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+
+  <a href="https://t.me/burlakov_vs" target="_blank">
+        <img src="https://img.shields.io/badge/burlakov_vs%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>
+  </a>
+  <a href="https://t.me/burlakov_vs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 </div>
+
+###
+
 ---
 
 ### :woman_technologist: About Me :

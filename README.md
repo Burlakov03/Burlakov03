@@ -21,7 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://vk.com/burlakov_vs" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/vk_black_logo_icon_147058.png" alt="burlakov_vs" height="30" width="40" /></a>
+<a href="https://vk.com/burlakov_vs" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuB1iIDF-5BZeEe1j8fecAI_t2v1LFMTQheQ&s" alt="burlakov_vs" height="30" width="40" /></a>
 <a href="https://discord.gg/burlakov_vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="burlakov_vs" height="30" width="40" /></a>
-<a href="https://discord.gg/burlakov_vs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="burlakov_vs" height="30" width="40" /></a>
+<a href="https://t.me/burlakov_vs" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggHfyBVAMrN3y4kwxLg4vOfFTZTOopEQQRw&s" alt="burlakov_vs" height="30" width="40" /></a>
+
 </p>

@@ -60,8 +60,8 @@
   <a href="https://t.me/burlakov_vs" target="_blank">
          <img src="https://img.shields.io/badge/burlakov_vs%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white"/>
   </a>
-  <a href="mailto:vladimirburlakov03@mail.com" target="_blank">
-        <img src="https://img.shields.io/badge/vladimirburlakov03@mail.com%20-%23c71610.svg?&style=for-the-badge&logo=mail&logoColor=white"/>
+  <a href="mailto:vladimirburlakov03@mail.ru" target="_blank">
+        <img src="https://img.shields.io/badge/vladimirburlakov03@mail.ru%20-%23c71610.svg?&style=for-the-badge&logo=mail&logoColor=white"/>
   </a>
 </div>
 </p>

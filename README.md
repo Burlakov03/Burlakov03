@@ -42,8 +42,8 @@
 </p>
 📊 Моя статистика GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BurlakovVladimir&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurlakovVladimir&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Burlakov03&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burlakov03&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 📫 Связаться со мной
 <p align="center">

@@ -55,12 +55,8 @@
 </p>
 ## 🌎 Посетители со всего мира
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ВашИмяПользователя/count.svg?row=1&column=6&theme=radical&title=Visitors" alt="Visitor Map" />
+  <img src="https://profile-counter.glitch.me/Burlkov03/count.svg?row=1&column=6&theme=radical&title=Visitors" alt="Visitor Map" />
 </p>
 <div align="center">
   <b>Спасибо за посещение моего профиля! Не стесняйтесь связаться со мной!</b>
 </div>
-## 📊 Мои навыки
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,python,git,linux,postgres,docker" />
-</p>

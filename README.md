@@ -53,10 +53,6 @@
     <img src="https://img.shields.io/badge/vladimirburlakov03@mail.ru%20-%23c71610.svg?&style=for-the-badge&logo=mail&logoColor=white"/>
   </a>
 </p>
-## 🌎 Посетители со всего мира
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Burlkov03/count.svg?row=1&column=6&theme=radical&title=Visitors" alt="Visitor Map" />
-</p>
 <div align="center">
   <b>Спасибо за посещение моего профиля! Не стесняйтесь связаться со мной!</b>
 </div>

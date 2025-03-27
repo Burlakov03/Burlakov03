@@ -41,6 +41,7 @@
 📊 Моя статистика GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Burlakov03&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burlakov03&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 📫 Связаться со мной
@@ -52,6 +53,14 @@
     <img src="https://img.shields.io/badge/vladimirburlakov03@mail.ru%20-%23c71610.svg?&style=for-the-badge&logo=mail&logoColor=white"/>
   </a>
 </p>
+## 🌎 Посетители со всего мира
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ВашИмяПользователя/count.svg?row=1&column=6&theme=radical&title=Visitors" alt="Visitor Map" />
+</p>
 <div align="center">
   <b>Спасибо за посещение моего профиля! Не стесняйтесь связаться со мной!</b>
 </div>
+## 📊 Мои навыки
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,python,git,linux,postgres,docker" />
+</p>
